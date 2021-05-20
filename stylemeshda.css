@@ -1,0 +1,21 @@
+/*selector property:value;
+*/
+dialog{
+			width:300px;
+			text-align:center;
+			background-color:black;
+			color:white;
+			border:0px solid ;
+			padding:50px 40px;
+		}
+		@media screen and(min-width:700px)
+		{
+			.dialog{
+				float:none;
+				margin-top:48px;
+				margin-bottom:24px;
+				font-size:56px;
+				display:flex;
+				flex-direction:column;
+			}
+		}
