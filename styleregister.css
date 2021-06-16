@@ -1,0 +1,43 @@
+h1{
+	text-align:center;
+	padding:20px;
+    width: 500px;
+    margin: 0px 0px 0px 430px;
+}
+body{
+	background-image:url(file:///C:/Users/user/Pictures/Pictures/Screenshots/IMG_20200910_062344_571.JPG);
+	background-size:100% 900px;
+	background-repeat:no-repeat;
+}
+.register{
+background: blueviolet;
+    width:500px;
+    margin: 0px 0px 0px 430px;
+    padding:20px;
+    border-radius:10px;
+}
+h2{
+	text-align:center;
+}
+label{
+	font-family:inherit;
+	font-style:italic;
+}
+dialog{
+			width:500px;
+			background-color:black;
+			margin:0px 0px 0px 430px;
+			color:white;
+			border:0px solid ;
+			padding:50px 40px;
+			border-radius:10px;
+		}
+		#sub{
+    padding: 2px;
+    width: 200px;
+    font-family: sans-serif;
+    font-size: 17px;
+    font-style: italic;
+    border-radius: 5px;
+    background: indianred;
+}
